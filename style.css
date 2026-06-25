@@ -1,0 +1,9 @@
+    :root{
+        --Ambâr-Dourado: #ffbe0bff;
+        --laranja-fluorescente: #fb5607ff;
+        --rosa-neon: #ff006eff;
+        --azul-violeta: #8338ecff;
+    }
+    body{
+        background: var(--azul-violeta);
+    }
