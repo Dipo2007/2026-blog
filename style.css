@@ -1,9 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Pixel&family=Montenegrin+Gothic+One&display=swap');
+    
     :root{
         --Ambâr-Dourado: #ffbe0bff;
         --laranja-fluorescente: #fb5607ff;
         --rosa-neon: #ff006eff;
         --azul-violeta: #8338ecff;
+        --texto: "Geist Pixel", sans-serif;
+        --titulo:  "Montenegrin Gothic One", serif;
     }
     body{
-        background: var(--azul-violeta);
+        background: var(--Ambâr-Dourado);
+        font-family: var(--texto);
+    }
+    h1{
+        font-family: var(--titulo);
     }
