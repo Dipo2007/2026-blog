@@ -9,9 +9,12 @@
         --titulo:  "Montenegrin Gothic One", serif;
     }
     body{
-        background: var(--Ambâr-Dourado);
+        background: var(--laranja-fluorescente);
         font-family: var(--texto);
     }
-    h1{
-        font-family: var(--titulo);
+    header{
+        background-color: var(--rosa-neon);
+        display: flex;
+        justify-content: space-around;
+        color: var(--Ambâr-Dourado)
     }
