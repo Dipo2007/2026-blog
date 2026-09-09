@@ -24,6 +24,10 @@
         color: var(--Ambâr-Dourado);
         padding: 30px;
     }
+    .logo{
+        width: 10%;
+        border-radius: 100;
+    }
     .Menu{
         display: flex;   
         list-style: none;
@@ -63,3 +67,11 @@
         font-family: var(--texto);
         font-size: 14px;
     }
+    footer{
+        background-color: var(--cinza);
+        color: var(--azul-violeta);
+        font-family: var(--titulo);
+        font-size: 20px;
+        padding: 20px;
+    }
+
