@@ -21,6 +21,7 @@
         background-color: var(--rosa-neon);
         display: flex;
         justify-content: space-around;
+        align-items: center;
         color: var(--Ambâr-Dourado);
         padding: 30px;
     }
